@@ -1,4 +1,4 @@
-# Projetos_Crud_Laravel
+# Projeto_Crud_Laravel
 
 #Crud de registrar usuario com upload de imagens.
 
