@@ -1,13 +1,8 @@
 # Projetos_Crud_Laravel
 
-#Projeto 1
-Um simples crud para registrar um jogo, sem tela de cadastro ou de login.
+#Crud de registrar usuario com upload de imagens.
 
-#Projeto 2
-Um Crud para criar um evento, com sistema de cadastro e login para conseguir
-criar um evento ou para participar de algum.
-Somente o proprietario do Evento consegue fazer algum tipo de alteração.
+#Importante Verificar .env para fazer a conexao com o seu banco e fazer a migration para funcionar o projeto.
 
-#Projeto 3
-Um Crud simples para fazer um registro e usando sistema de cadastro e login.
- 
+Projeto bem simples somente para fins de estudo.
+
